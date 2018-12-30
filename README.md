@@ -16,4 +16,4 @@
 
 ### ✈️ 启动服务
 
-访问 `http://127.0.0.1:8000/documentation#/` 查看 `API` 文档
+访问 `http://127.0.0.1:3009/documentation` 查看 `API` 文档
