@@ -4,6 +4,10 @@ module.exports = [
     path: '/',
     handler: (request, reply) => {
       reply('hapi 哈哈哈哈');
-    }
+    },
+    config: {
+      tags: ['api', 'tests'],
+      description: '测试hello-hapi',
+    },
   },
 ]
