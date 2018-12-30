@@ -1,6 +1,6 @@
 # hapi-Server-api
 ### 📖 配置基础的Hapi脚手架，方便自己日后开发
-
+![](https://github.com/xianengqi/hapi-Server-api/blob/master/test/test.png?raw=true)
 ### 📖 数据迁移
 
 开启 mysql 服务，并执行命令:
