@@ -1,0 +1,24 @@
+{
+  "name": "hapi-server-api",
+  "version": "1.0.0",
+  "description": "一款脚手架工具，方便自己日后开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "supervisor app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xianengqi/hapi-Server-api.git"
+  },
+  "author": "XiaNengQi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xianengqi/hapi-Server-api/issues"
+  },
+  "homepage": "https://github.com/xianengqi/hapi-Server-api#readme",
+  "dependencies": {
+    "env2": "^2.2.2",
+    "hapi": "^16.7.0"
+  }
+}
